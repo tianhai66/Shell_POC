@@ -11,7 +11,7 @@ POC中罗列了部分插件URL，来提高检测效率，可自行调整。
 
 使用方法：
 chmod +x CVE-2021-43798.sh
- ./CVE-2021-43798.sh URL.txt
+./CVE-2021-43798.sh URL.txt
 
 ![图片](https://user-images.githubusercontent.com/40051714/145383195-0b6a68a9-12fb-40b7-a23f-3cbd5a0e9a57.png)
 
